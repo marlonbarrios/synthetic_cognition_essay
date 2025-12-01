@@ -142,4 +142,4 @@ Looking ahead, synthetic cognition could evolve into a discipline in its own rig
 
 The influence of speculative, artistic perspectives will also enrich this field, ensuring we don’t just ask “How can we use synthetic cognition for better AI?”, but also “What does synthetic cognition tell us about the nature of thought and meaning itself?” The emergence of terms like *synthetic cognition* signals a recognition that AI is no longer just about engineering algorithms—it’s about cultivating **artificial minds** and understanding them. In the spirit of Braitenberg, we must remain keenly aware of our tendency to project, even as we allow ourselves to be surprised and informed by the creative “minds” we have created. Synthetic cognition is thus a journey of both creation and discovery: we build these complex AI systems, and in turn they are teaching us new ways to think about thinking.
 
-https://chatgpt.com/share/692cf112-3010-8007-9820-9609f4975706# synthetic_cognition_essay
+[Link to ChatGPT](https://chatgpt.com/share/692cf112-3010-8007-9820-9609f4975706# synthetic_cognition_essay)
