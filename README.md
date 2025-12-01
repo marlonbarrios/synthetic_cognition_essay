@@ -1,4 +1,4 @@
-# The Emergence of Synthetic Cognition in AI Research
+# Tell me about yourself: The Emergence of Synthetic Cognition in AI Research
 by Marlon Barrios Solano  11/30/2025
 
 University of Florida
