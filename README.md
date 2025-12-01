@@ -1,5 +1,7 @@
 # The Emergence of Synthetic Cognition in AI Research
-by marlon barrios Solano
+by Marlon Barrios Solano  11/30/2025
+University of Florida
+maker in residency
 
 ## Introduction 
 Artificial intelligence has entered an era where **large language models (LLMs)** exhibit behaviors eerily reminiscent of human cognition. Researchers at leading AI labs—OpenAI, DeepMind (Google), Anthropic, and others—are investigating phenomena such as a model’s ability to **“introspect” on its own workings**, to carry out **step-by-step reasoning (chain-of-thought)**, to maintain **contextual or situational awareness**, and even to adopt distinct **“personality vectors”** that influence its style of response. These efforts, driven by AI **alignment** and **interpretability** research, suggest the emergence of a new interdisciplinary field often dubbed *synthetic cognition*. This field blends insights from machine learning, neuroscience, and cognitive science to understand and shape the *apparent* thought processes of AI. 
